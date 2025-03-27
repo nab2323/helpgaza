@@ -28,7 +28,7 @@ This fundraiser supports **Nabil**, a displaced father of three from Gaza, whose
 
 ## 🎯 Watch the Campaign and Contribute Now
 
-<iframe width="100%" height="380" src="https://chuffed.org/iframe/119321/25aae1" frameborder="0" allowfullscreen style="max-width:310px;border:0px solid #fff;margin:0 auto;"></iframe>
+https://www.youtube.com/shorts/iSIRbzqzftk
 
 Or visit the donation page directly:  
 🔗 https://chuffed.org/project/nabil
